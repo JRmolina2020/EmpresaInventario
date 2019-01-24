@@ -10,7 +10,7 @@ public $nombre;
 class Recibo extends Portada {
  public $producto=[];
    public function __construct(){
-    $this->nombre="ADMIN";
+    $this->nombre="LOCOS";
     }
     public function App($nombre){
      Self::Mostrar($nombre);
